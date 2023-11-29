@@ -1,0 +1,8 @@
+input:focus {
+    outline:none;
+    width: 100%;
+}
+.btn-like {
+ margin-right: 20px;
+    z-index: 10;
+}
