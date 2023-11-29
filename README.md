@@ -1,1 +1,1 @@
-# social-media-instagram
+# social-media-instagram-django-project
